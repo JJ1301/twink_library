@@ -1,4 +1,4 @@
-local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/JJ1301/gui/refs/heads/main/twink_library"))()
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/JJ1301/twink_library/refs/heads/main/twink_library"))()
 
 local MainUI = UILibrary.Load("Calamity")
 local FirstPage = MainUI.AddPage("Home")
